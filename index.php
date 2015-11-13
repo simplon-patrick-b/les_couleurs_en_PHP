@@ -4,8 +4,6 @@ $couleurs = array
 //on defini les codes relies aux couleurs
   'or' =>'#FFD700' ,
   'turquoise' => '#00CED1' ,
-  'chocolat' => '#D2691E' ,
-  'tomate' => '#FF6347' ,
   'argent' => "#C0C0C0" ,
   'saumon' => "#FA8072"
 );
